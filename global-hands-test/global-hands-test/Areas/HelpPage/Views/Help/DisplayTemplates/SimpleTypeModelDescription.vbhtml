@@ -1,0 +1,3 @@
+@Imports global_hands_test.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
